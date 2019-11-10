@@ -39,14 +39,14 @@ public class Financiero{
                               83.99,1295.01,1.75};
 
     public void resolver(){
-        double saldoPromedio=0;
+        double sueldoPromedio=0;
         for (int index = 0; index < sueldo.length ; index++) {//El contador debe ser menor al largo del arreglo sueldo, y debe ir aumentando, cambiamos el index-- por index++
-            saldoPromedio = saldoPromedio+sueldo[index];//A la variable saldo le agregamos el valor del arreglo sueldo
+            sueldoPromedio = sueldoPromedio+sueldo[index];//A la variable sueldo le agregamos el valor del arreglo sueldo
         }
 
-        saldoPromedio/=12;
+        sueldoPromedio/=12;
 
-        System.out.println("$"+saldoPromedio);//Agregamos el signo de pesos
+        System.out.println("$"+sueldoPromedio);//Agregamos el signo de pesos
     }
 
         public static void main(String[] args) {
