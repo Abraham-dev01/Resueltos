@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Financiero
+comment0.text=\r\n\ Descripci\u00F3n\r\n\r\nLarry\ se\ gradu\u00F3\ este\ a\u00F1o\ y,\ finalmente,\ tiene\ un\ trabajo.\ \r\nEst\u00E1\ ganando\ un\ mont\u00F3n\ de\ dinero,\ pero\ de\ alguna\ manera\ nunca\ \r\nparece\ tener\ suficiente.\ Larry\ ha\ decidido\ que\ necesita\ tomar\ \r\ncontrol\ de\ su\ cartera\ financiera\ y\ resolver\ sus\ problemas\ de\ \r\nfinanciaci\u00F3n.\ El\ primer\ paso\ es\ averiguar\ lo\ que\ est\u00E1\ pasando\ \r\ncon\ su\ dinero.\ Larry\ tiene\ sus\ estados\ de\ cuenta\ bancarios\ y\ \r\nquiere\ ver\ la\ cantidad\ de\ dinero\ que\ tiene.\ Ayuda\ a\ Larry\r\nescribiendo\ un\ programa\ que\ tome\ su\ balance\ de\ cierre\ de\ cada\ \r\nuno\ de\ los\ \u00FAltimos\ doce\ meses\ y\ calcule\ su\ saldo\ promedio.\r\n\r\nEspecificaci\u00F3n\ de\ salida\r\n\r\nLa\ salida\ ser\u00E1\ un\ \u00FAnico\ n\u00FAmero\ ,\ el\ promedio\ (media)\ de\ los\ \r\nsaldos\ de\ cierre\ de\ los\ 12\ meses.\ Se\ mostrara\ inmediatamente\ \r\nprecedido\ por\ un\ signo\ de\ pesos,\ y\ seguido\ por\ el\ final\ de\ \r\nla\ l\u00EDnea.\ No\ habr\u00E1\ otros\ espacios\ o\ caracteres\ en\ la\ salida.\r\n\r\nEjemplo\ de\ salida\r\n\r\n$1581.42\r\n\r\nSugerencia(s)\r\n\r\nEvita\ proporcionar\ soluciones\ que\ son\ fuente\ de\ la\ web,\r\nas\u00ED\ como\ tu\ lo\ buscaste\ tambien\ otras\ personas\ pueden\r\nhacerlo.\r\n\r\nEn\ una\ archivo\ compreso\ sube\ tu\ solucion\ al\ siguiente\ enlace\:\r\nhttps\://drive.google.com/drive/folders/1uB4KJqy2JjmZaIrcFX8ySp3bQ_4TYVuY?usp\=sharing\r\n\ \r\n
+comment1.params=
+comment1.target=void\ resolver()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
